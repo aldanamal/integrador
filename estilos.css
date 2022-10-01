@@ -1,0 +1,81 @@
+*{margin: 0;padding: 0;}
+nav{background-color: rgb(62, 57, 57);
+    width: 100%;
+    height: 100px;
+
+}
+.nav-link{color:aliceblue}
+#dis{color:rgb(43, 154, 80)}
+.codo{height: 90px;}
+.bs{color: aliceblue;
+margin-top: 34px;}
+
+#izquierda{
+    color:rgb(255, 255, 255);
+    margin-left: 20%; 
+    margin-top:24px;
+    padding: 10px;
+    display: inline-flex;
+
+}
+.hawaii{
+    width: 100%;
+}
+
+h1{text-align: center;}
+h2{text-align: center;}
+
+.stev{width: 100%;padding-bottom: 10px;}
+
+.col-4{border: solid 2px gainsboro;
+padding: 0px;margin: 10px;}
+
+.texto{padding: 10px;}
+.arriba{padding-top: 10px;}
+
+.tamaño{width: 100%;}
+
+#gris{background-color:rgb(62, 57, 57);
+    color: white;margin: 0px;padding: 10px;}
+#sacar{margin: 0px; padding: 0px;
+   ;}
+   .col-6{padding: 0px; margin: 0px;}
+
+   .container{margin:0px;}
+
+
+.card{display: inline-block;
+    margin: 10px;
+    text-align: left
+}
+#centrar{
+    ;text-align: center;
+}
+
+.btn{margin-bottom: 10px;}
+
+.izq{text-align:right;
+    position: relative;
+    left: 50%;
+    width: 50%;;}
+
+    .verde{background-color: rgb(43, 154, 80);}
+    .btn-outline-{color: rgb(255, 255, 255);
+        border:solid 1px rgb(255, 255, 255);}
+.mar{margin-left: 200px
+    ;margin-right: 200px;}
+
+    #mas{height: 100px; ;}
+
+footer{background-color: rgb(62, 57, 57);
+color:white; 
+text-align: center;
+}
+
+.col-1{text-align: center;margin: 20px;}
+#foo{text-align: center;
+    justify-content: center;
+  
+margin:40px}
+#f{justify-items: center;}
+    
