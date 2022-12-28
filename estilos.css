@@ -24,6 +24,7 @@ margin-top: 34px;}
 
 h1{text-align: center;}
 h2{text-align: center;}
+.centr{text-align: center;}
 
 .stev{width: 100%;padding-bottom: 10px;}
 
@@ -78,4 +79,20 @@ text-align: center;
   
 margin:40px}
 #f{justify-items: center;}
+
+.borde{
+    border: solid rgb(123, 123, 248);
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.dis{border-color: rgb(252, 181, 94);}
+.cen{
+justify-content: center;}
+
     
